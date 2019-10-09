@@ -1,0 +1,8 @@
+- Declare counter variable starting at 1
+
+- Create isPrime function with counter value as argument
+  - If counter is a Prime, print "HW" to screen equal to the value of counter
+    - counter++
+  - Else counter++ and restart loop
+
+- Pause (for one second?) between each loop
